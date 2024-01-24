@@ -42,8 +42,10 @@ Afterwards, we implemented the automatic calibration and juggled the tresholds f
 <details>
 <summary><h2>Performance and outcome 🏁🏎️</h2></summary>
 
-Final setup of the robot: 
+Final setup of the car: 
 ![Car](https://github.com/lemnaruamedeea/LineFollowerProject/blob/main/LineFollower/Car.jpg?raw=true)
+
+  <img src="https://github.com/lemnaruamedeea/LineFollowerProject/blob/main/LineFollower/Car.jpg?raw=true" alt="Empty" width="200" />
 
 When presenting our design, the lowest time recorded for completing the track was 17.871 seconds. 🎉🎊
 
