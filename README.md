@@ -3,8 +3,8 @@
 This final project developed during the Introduction To Robotics course consists of building, assembling and programming a robot whose objective is to follow a black line on a track and complete it as fast as possible. In order to do so, me and my colleagues spent 12 hours at the university, where we developed our robots in teams of three. 🙊🙈🙉
 
 My team - Powerpuff Girls: 💙❤️💚
-@vfranci
-@Diana5B
+- [@vfranci](https://github.com/vfranci)
+- [@Diana5B](https://github.com/Diana5B)
 
 <details>
 <summary><h2>Project and Design Description 📏📝</h2></summary>
@@ -31,9 +31,9 @@ Minimum requirements for the project were to have the robot finish the line foll
 The robot calibrated its sensor by moving left and right in order to recognize the black line it had to follow. The movement behaviour was determined by using a proportional-integrative-derivative controller. We started with a simple code provided by our teacher in which we had to alter the kp, ki, and kd values to achieve the desired movement. We started by assigning random values to the proportional constant in order to observe the behaviour. Once the robot was able to take the turns without overshooting, we began updating the kd value to smooth the wobble. 
 
 The final values were:
-kp = 4.3;
-ki = 0.000;
-kd = 23.2;
+- kp = 4.3;
+- ki = 0.000;
+- kd = 23.2;
 
 Afterwards, we implemented the automatic calibration and juggled the tresholds for the error and motor speed values.
 
